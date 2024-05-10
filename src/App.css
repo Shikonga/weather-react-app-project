@@ -46,3 +46,21 @@ footer{
   margin: 10px 0;
 }
 
+@media screen and (max-width: 768px) {
+  .WeatherApp {
+    font-size: 20px; 
+  }
+
+  .WeatherApp h1 {
+    font-size: 24px; 
+    line-height: 30px; 
+  }
+
+  .WeatherApp li {
+    font-size: 12px; 
+  }
+
+  footer {
+    font-size: 12px; 
+  }
+}
